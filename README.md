@@ -1,3 +1,3 @@
-install requirements.txt
+```install requirements.txt```
 
-python -m flask run
+```python -m flask run```
